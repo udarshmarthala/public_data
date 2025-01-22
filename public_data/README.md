@@ -1,4 +1,4 @@
-# Local Services Finder
+# Public_data(Local Services Finder)
  A concise and effective web application using the MERN stack (MongoDB, Express,
 React, Node.js) to help users find and manage local services based on pin codes. The project
 features CRUD operations and efficient pin code-based search functionality. The application uses
